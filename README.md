@@ -1,7 +1,7 @@
 # HoleeBike
 Dies ist das offizielle GitHub Repository für das Projekt HoleeBike. Hier finden Sie bald den source code für die Apps und weiter Infos.
 HoleeBike ist eine App zur Verbesserung der Qualität von Fahrradwegen und der Stärkung der Fahrradmobilität.
-Mehr zu diesem Projekt können Sie [hier](##über-dieses-projekt) lesen.
+Mehr zu diesem Projekt können Sie [hier](#über-dieses-projekt) lesen.
 
 ## Update
 **Ich bin gerade dabei, dieses Projekt zum Open-Source-Projekt zu machen. Momentan ist der ganze Programmcode noch privat. Bis hier der Code veröffentlicht wird, muss ich mich zunächst noch für eine passende Lizenz entscheiden, mich zum Copyright informieren und überprüfen, welche Dateien unter Verschluss bleiben müssen. Bitte noch etwas Geduld also.**
